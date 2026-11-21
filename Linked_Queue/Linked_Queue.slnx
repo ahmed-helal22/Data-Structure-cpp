@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Linked_Queue/Linked_Queue.vcxproj" Id="ef096089-36d1-48ab-b49c-cf3355188830" />
+</Solution>
